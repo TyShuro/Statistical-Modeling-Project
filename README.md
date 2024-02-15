@@ -1,4 +1,4 @@
-# Final-Project-Statistical-Modelling-with-Python
+# Statistical_Modelling_with_Python
 
 ## Project/Goals
 Explore Data from API's and build a statistical model
